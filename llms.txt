@@ -1,0 +1,36 @@
+# Albania.avokatfinder.com — LLMs.txt
+# Find English-speaking lawyers and notaries in Albania
+
+## Homepage
+url: https://albania.avokatfinder.com/
+description: Find verified English-speaking lawyers and notaries in Albania.
+
+## Blog Posts
+url: https://albania.avokatfinder.com/blog/guide-to-lawyers-in-albania/
+url: https://albania.avokatfinder.com/blog/employment-law-guide-expats-albania/
+url: https://albania.avokatfinder.com/blog/immigration-law-guide-expats-albania/
+url: https://albania.avokatfinder.com/blog/real-estate-law-guide-expats-albania/
+url: https://albania.avokatfinder.com/blog/lawyers-notaries-guide/
+
+## Practice Areas
+url: https://albania.avokatfinder.com/practice-areas/banking-finance/
+url: https://albania.avokatfinder.com/practice-areas/corporate-ma/
+url: https://albania.avokatfinder.com/practice-areas/criminal-law/
+url: https://albania.avokatfinder.com/practice-areas/data-protection/
+url: https://albania.avokatfinder.com/practice-areas/dispute-resolution/
+url: https://albania.avokatfinder.com/practice-areas/employment/
+url: https://albania.avokatfinder.com/practice-areas/family-law/
+url: https://albania.avokatfinder.com/practice-areas/golden-visa/
+url: https://albania.avokatfinder.com/practice-areas/immigration/
+url: https://albania.avokatfinder.com/practice-areas/intellectual-property/
+url: https://albania.avokatfinder.com/practice-areas/real-estate/
+url: https://albania.avokatfinder.com/practice-areas/tax/
+
+## Cities
+url: https://albania.avokatfinder.com/cities/tirana/
+url: https://albania.avokatfinder.com/cities/durr-s/
+url: https://albania.avokatfinder.com/cities/vlor/
+url: https://albania.avokatfinder.com/cities/shkod-r/
+url: https://albania.avokatfinder.com/cities/elbasan/
+url: https://albania.avokatfinder.com/cities/fier/
+url: https://albania.avokatfinder.com/cities/kor/
