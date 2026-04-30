@@ -1,5 +1,31 @@
 # AvökatFinder Albania
-> English-speaking law firm directory for Albania
+> The English-language directory of lawyers and law firms in Albania for expats, foreign nationals and international businesses.
 
-Directory: https://albania.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://albania.avokatfinder.com/: Home — find an English-speaking lawyer in Albania
+- https://albania.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Albania
+- https://albania.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Albania legal terms
+- https://albania.avokatfinder.com/blog/: Expat legal guides and property law articles for Albania
+- https://albania.avokatfinder.com/about/: About AvökatFinder Albania
+- https://albania.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://albania.avokatfinder.com/glossary/contract-formation/
+- https://albania.avokatfinder.com/glossary/defamation/
+- https://albania.avokatfinder.com/glossary/hipoteke-mortgage/
+- https://albania.avokatfinder.com/glossary/hipoteke/
+- https://albania.avokatfinder.com/glossary/inheritance-and-succession/
+- https://albania.avokatfinder.com/glossary/kadastra-cadastre/
+- https://albania.avokatfinder.com/glossary/kontrata-e-qirase-lease/
+- https://albania.avokatfinder.com/glossary/regjistri-i-pasurive/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Albania
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://albania.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
