@@ -10,14 +10,26 @@
 - https://albania.avokatfinder.com/contact/: Contact us
 
 ## Legal Glossary Terms
+- https://albania.avokatfinder.com/glossary/akti-noterial-al/
+- https://albania.avokatfinder.com/glossary/bashkepronesia-al/
+- https://albania.avokatfinder.com/glossary/certifikata-pronesise/
 - https://albania.avokatfinder.com/glossary/contract-formation/
 - https://albania.avokatfinder.com/glossary/defamation/
+- https://albania.avokatfinder.com/glossary/hipoteka-al/
 - https://albania.avokatfinder.com/glossary/hipoteke-mortgage/
 - https://albania.avokatfinder.com/glossary/hipoteke/
 - https://albania.avokatfinder.com/glossary/inheritance-and-succession/
 - https://albania.avokatfinder.com/glossary/kadastra-cadastre/
+- https://albania.avokatfinder.com/glossary/kontrata-blerjes-al/
 - https://albania.avokatfinder.com/glossary/kontrata-e-qirase-lease/
+- https://albania.avokatfinder.com/glossary/leja-ndertimit-al/
+- https://albania.avokatfinder.com/glossary/pengu-al/
 - https://albania.avokatfinder.com/glossary/regjistri-i-pasurive/
+- https://albania.avokatfinder.com/glossary/regjistri-prones-al/
+- https://albania.avokatfinder.com/glossary/servituti-al/
+- https://albania.avokatfinder.com/glossary/tatimi-kalimit-al/
+- https://albania.avokatfinder.com/glossary/tatimi-prones-al/
+- https://albania.avokatfinder.com/glossary/trashegimia-al/
 
 ## Site Info
 - Language: English
